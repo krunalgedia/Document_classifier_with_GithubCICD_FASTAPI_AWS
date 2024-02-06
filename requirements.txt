@@ -1,0 +1,21 @@
+torch==2.1.0
+opencv-python==4.8.0.74
+easyocr==1.7.1
+transformers==4.35.2
+pandas
+tqdm
+PyYAML
+matplotlib
+boto3
+mypy-boto3-s3
+python-box==6.0.2
+ensure==1.0.2
+fastapi==0.78.0
+uvicorn==0.18.3
+Jinja2==3.1.2
+pandas
+notebook
+ipywidgets
+scikit-learn
+python-multipart
+-e .

@@ -1,0 +1,2 @@
+Epoch,Training Loss,Validation Loss,Precision,Recall,F1,Accuracy
+0,44.55344897508621,11.155329167842865,0.09,0.3,0.13846153846153847,0.3
