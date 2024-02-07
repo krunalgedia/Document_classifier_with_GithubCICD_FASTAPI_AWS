@@ -1,5 +1,5 @@
 torch==2.1.0
-opencv-python==4.8.0.74
+opencv-python-headless
 easyocr==1.7.1
 transformers==4.35.2
 pandas
